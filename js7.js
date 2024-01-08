@@ -1,8 +1,8 @@
 // Create an array of objects representing people
 const peopleArray = [
-    { name: "Alice", age: 25 },
-    { name: "Bob", age: 30 },
-    { name: "Charlie", age: 22 }
+    { name: "Bhojraj", age: 25 },
+    { name: "Niraj", age: 30 },
+    { name: "Sirash", age: 22 }
   ];
   
   // Print the initial array
@@ -10,7 +10,7 @@ const peopleArray = [
   console.log(peopleArray);
   
   // Add a new person using push()
-  const newPerson = { name: "David", age: 28 };
+  const newPerson = { name: "Kshitiz", age: 28 };
   peopleArray.push(newPerson);
   
   // Print the array after adding a new person
